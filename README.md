@@ -1,4 +1,4 @@
-# NM1075-Projects
+# NM1093-Projects
 # Project 1 :Automatic Number Plate Recognition with Easy OCR and OpenCV.
 
 The implementation of ANPR is divided into several small steps
